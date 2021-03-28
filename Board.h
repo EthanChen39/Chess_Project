@@ -5,7 +5,9 @@
 
 
 class Board {
-
+public:
+    static const int DIMENSION;
+private:
 };
 
 
